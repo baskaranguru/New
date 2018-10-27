@@ -1,3 +1,0 @@
-# New
-
-Intro to Python
