@@ -1,3 +1,3 @@
 # New
 
-Introduction to Python
+Introduction to Python for beginners
